@@ -138,7 +138,7 @@ now present.
 ## Create your first GitHub repository
 
 A repository (repo) is a place where you would store your code. You were
-practising on your very own repo just now in Part 1!
+practicing on your very own repo just now in Part 1!
 
 The following <a href="https://help.github.com/articles/create-a-repo">
 tutorial</a> will show you how to create a GitHub repo - which you can
